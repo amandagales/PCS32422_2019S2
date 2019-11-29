@@ -1,0 +1,679 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/bruno/Desktop/oac/wave
+Ealu
+Z0 w1573421952
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 11 numeric_bit 0 22 d<O?S;AIQfOzoHU3FDK]23
+Z3 dC:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/Modelsim
+Z4 8C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/alu.vhd
+Z5 FC:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/alu.vhd
+l0
+L12
+V1AN<Ym:OlZKc`;STRfPDF1
+!s100 F5FTgX3TmmE;P?FF>Qk2L0
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1575044826
+!i10b 1
+Z8 !s108 1575044826.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/alu.vhd|
+Z10 !s107 C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/alu.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Afunctional
+R1
+R2
+DEx4 work 3 alu 0 22 1AN<Ym:OlZKc`;STRfPDF1
+l36
+L26
+VWOOGR;9g8[3B@VMjh0Y3]1
+!s100 F7WWeEl[KFDg@OL_>S9?c0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ealu_control
+R0
+R1
+R2
+R3
+Z13 8C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/alucontrol.vhd
+Z14 FC:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/alucontrol.vhd
+l0
+L4
+V4Fj8H;IEAf;cdXA@I>d2U2
+!s100 a[Y0KlL3d9^JYJT4]L14k2
+R6
+32
+R7
+!i10b 1
+R8
+Z15 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/alucontrol.vhd|
+Z16 !s107 C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/alucontrol.vhd|
+!i113 1
+R11
+R12
+Aaluctrl
+R1
+R2
+DEx4 work 11 alu_control 0 22 4Fj8H;IEAf;cdXA@I>d2U2
+l15
+L13
+VPiEMIB?`j5cnogTWliYK<1
+!s100 A]o[iWSVdc`<Xg^O6;?kR1
+R6
+32
+R7
+!i10b 1
+R8
+R15
+R16
+!i113 1
+R11
+R12
+Ebranch_table
+Z17 w1573440276
+R1
+R2
+R3
+Z18 8C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/branch_table.vhd
+Z19 FC:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/branch_table.vhd
+l0
+L17
+V3njXX<9I:DXCnk4g[h9e:2
+!s100 KlARAAEa5WYYP4JUzYZ3S1
+R6
+32
+R7
+!i10b 1
+R8
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/branch_table.vhd|
+Z21 !s107 C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/branch_table.vhd|
+!i113 1
+R11
+R12
+Abranch_table
+R1
+R2
+DEx4 work 12 branch_table 0 22 3njXX<9I:DXCnk4g[h9e:2
+l57
+L43
+VDafm;2<QffScIYfYelGiL3
+!s100 27U8eecEz;bPLHCCzURK^3
+R6
+32
+R7
+!i10b 1
+R8
+R20
+R21
+!i113 1
+R11
+R12
+Eclock_gen
+R0
+R2
+R1
+Z22 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R3
+Z23 8C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/controComAlu.vhd
+Z24 FC:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/controComAlu.vhd
+l0
+L8
+VQIHPJYPl]J[oV4b0lL@VA2
+!s100 ;=jBzQU:NkR`W0;[9Om4o0
+R6
+32
+R7
+!i10b 1
+R8
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/controComAlu.vhd|
+Z26 !s107 C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/controComAlu.vhd|
+!i113 1
+R11
+R12
+Acomportamental
+R2
+R1
+R22
+DEx4 work 9 clock_gen 0 22 QIHPJYPl]J[oV4b0lL@VA2
+l15
+L13
+VEAK>=ZJe0IEBoHUiYR9AC1
+!s100 CP^Jz8dA<6k3O_17^[5fI1
+R6
+32
+R7
+!i10b 1
+R8
+R25
+R26
+!i113 1
+R11
+R12
+Econtrol
+R0
+R3
+R23
+R24
+l0
+L22
+VnRIGXZP39R7H43;6]SZF_3
+!s100 [QSD0D3KJ[MCOD5cdaa5i3
+R6
+32
+R7
+!i10b 1
+R8
+R25
+R26
+!i113 1
+R11
+R12
+Acontrol
+DEx4 work 7 control 0 22 nRIGXZP39R7H43;6]SZF_3
+l58
+L51
+V[nZ6KLgQN_ENO:ci59LJ^1
+!s100 e93>4Z3T0O3YJ0^mzXRn;0
+R6
+32
+R7
+!i10b 1
+R8
+R25
+R26
+!i113 1
+R11
+R12
+Edata_path
+Z27 w1573449716
+R1
+R2
+R3
+Z28 8C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/fluxo_de_dados.vhd
+Z29 FC:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/fluxo_de_dados.vhd
+l0
+L5
+VMc9ULH@@2_iA`<o`>`ASg0
+!s100 AWcdJ=g6UNeE:^W_^7[DA2
+R6
+32
+Z30 !s110 1575044825
+!i10b 1
+Z31 !s108 1575044825.000000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/fluxo_de_dados.vhd|
+Z33 !s107 C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/fluxo_de_dados.vhd|
+!i113 1
+R11
+R12
+Aarch
+R1
+R2
+DEx4 work 9 data_path 0 22 Mc9ULH@@2_iA`<o`>`ASg0
+l284
+L59
+VUeUm^3b:f^WekgENTWL273
+!s100 L@0InSfYU1f@acH52aT[50
+R6
+32
+R30
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R11
+R12
+Edualregfile
+R0
+R1
+R2
+R3
+Z34 8C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/dualregfile.vhd
+Z35 FC:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/dualregfile.vhd
+l0
+L29
+VTFzm1gKP>_SX9jFOnJ]o:0
+!s100 a7i2J_98k12dBgHhd[<243
+R6
+32
+R30
+!i10b 1
+R31
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/dualregfile.vhd|
+Z37 !s107 C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/dualregfile.vhd|
+!i113 1
+R11
+R12
+Adualregfile64
+R1
+R2
+DEx4 work 11 dualregfile 0 22 TFzm1gKP>_SX9jFOnJ]o:0
+l65
+L52
+Vfc9AG`@I7EIi6G82nGJBB3
+!s100 85[Zb72X?lTEii`67E_OI2
+R6
+32
+R30
+!i10b 1
+R31
+R36
+R37
+!i113 1
+R11
+R12
+Efp_unity
+R0
+R1
+R2
+R3
+Z38 8C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/fp.vhd
+Z39 FC:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/fp.vhd
+l0
+L7
+Vfg`KF9d716MWLc_>Vd6O<0
+!s100 :f`>dz5IR4CX@?X<fKZZh0
+R6
+32
+R30
+!i10b 1
+R31
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/fp.vhd|
+Z41 !s107 C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/fp.vhd|
+!i113 1
+R11
+R12
+Astructural
+R1
+R2
+DEx4 work 8 fp_unity 0 22 fg`KF9d716MWLc_>Vd6O<0
+l19
+L18
+VUYEIF2obb5e@]EN0<m0Ja2
+!s100 fg6c>hFa:_TH0bNLMC;MU0
+R6
+32
+R30
+!i10b 1
+R31
+R40
+R41
+!i113 1
+R11
+R12
+Emux2to1
+R0
+R3
+Z42 8C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/mux2to1.vhd
+Z43 FC:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/mux2to1.vhd
+l0
+L8
+VTZhKgY1oOQPEUdjDV@2NB3
+!s100 mi28BPSXG7599^5`:N[;^0
+R6
+32
+R30
+!i10b 1
+R31
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/mux2to1.vhd|
+Z45 !s107 C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/mux2to1.vhd|
+!i113 1
+R11
+R12
+Aprocif
+Z46 DEx4 work 7 mux2to1 0 22 TZhKgY1oOQPEUdjDV@2NB3
+l74
+L73
+V`51We4h<8QI6Wh3KHISoe2
+!s100 @gjznmJBj:nAY>3@EQ6:B0
+R6
+32
+R30
+!i10b 1
+R31
+R44
+R45
+!i113 1
+R11
+R12
+Aproccase
+R46
+l60
+L59
+V[bg<b=8:2US<<WKzZDX6_0
+!s100 5ei9d`V=gnOGzP4AIacMV1
+R6
+32
+R30
+!i10b 1
+R31
+R44
+R45
+!i113 1
+R11
+R12
+Astructgen
+R46
+l51
+L50
+V:WidN`hB@7O^>]X]j=ELK1
+!s100 ocz^P_B8V88HaZ4EbNMCj3
+R6
+32
+R30
+!i10b 1
+R31
+R44
+R45
+!i113 1
+R11
+R12
+Astructvec
+R46
+l44
+L42
+ValM5_1:J5d;41X?dXa`^N3
+!s100 g?fZ5;1Q]2i@H;llHa17N0
+R6
+32
+R30
+!i10b 1
+R31
+R44
+R45
+!i113 1
+R11
+R12
+Astruct
+R46
+l32
+L30
+VbS=P]K`;ikZ7Wmhbd>4=02
+!s100 N0Q5NRUaLe55JfZG<N`b70
+R6
+32
+R30
+!i10b 1
+R31
+R44
+R45
+!i113 1
+R11
+R12
+Awithselect
+R46
+l23
+L22
+VEblZ0Kf7Z[Bj<I0E9]Y<81
+!s100 9U:J];`R^=2CohQ1h9bXP2
+R6
+32
+R30
+!i10b 1
+R31
+R44
+R45
+!i113 1
+R11
+R12
+Awhenelse
+R46
+l18
+L17
+VM<_4O]a?Yb8HVG>6g8JnA3
+!s100 zkGF4>X2JN<Nm5memPhfK0
+R6
+32
+R30
+!i10b 1
+R31
+R44
+R45
+!i113 1
+R11
+R12
+Eprocessor
+R0
+R1
+R2
+R3
+Z47 8C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/processador.vhd
+Z48 FC:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/processador.vhd
+l0
+L4
+Vci[^8lYc1;6cQd8:OfIkV3
+!s100 VQ`<blbVnX0nnlhCG_cfd1
+R6
+32
+R7
+!i10b 1
+R8
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/processador.vhd|
+Z50 !s107 C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/processador.vhd|
+!i113 1
+R11
+R12
+Aarch
+R1
+R2
+DEx4 work 9 processor 0 22 ci[^8lYc1;6cQd8:OfIkV3
+l85
+L10
+VzC5_7[niB;8e@h<K:m@gL3
+!s100 z6;8iknF9M_hED^DZ<XHA0
+R6
+32
+R7
+!i10b 1
+R8
+R49
+R50
+!i113 1
+R11
+R12
+Eram
+R0
+Z51 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R22
+R3
+Z52 8C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/ram.vhd
+Z53 FC:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/ram.vhd
+l0
+L6
+V]<MZYfIl9hf68Ao6TcL=z3
+!s100 zKM<8O>B0Q``ccW0dY1Ge0
+R6
+32
+R7
+!i10b 1
+R8
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/ram.vhd|
+Z55 !s107 C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/ram.vhd|
+!i113 1
+R11
+R12
+Avendorfree
+R51
+R1
+R22
+DEx4 work 3 ram 0 22 ]<MZYfIl9hf68Ao6TcL=z3
+l26
+L22
+VZ13iS6OcWeEGeEFaa8Fmb1
+!s100 K0bzGT1HMUP;SE`RbS]Y>0
+R6
+32
+R7
+!i10b 1
+R8
+R54
+R55
+!i113 1
+R11
+R12
+Ereg
+R0
+R1
+R22
+R3
+Z56 8C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/reg.vhd
+Z57 FC:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/reg.vhd
+l0
+L13
+V6@dM=C^<]E9<okk[TUSBQ2
+!s100 ^f:i=eeSHoCEzlU:^PZ]41
+R6
+32
+R7
+!i10b 1
+R8
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/reg.vhd|
+Z59 !s107 C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/reg.vhd|
+!i113 1
+R11
+R12
+Aflipflop
+R1
+R22
+DEx4 work 3 reg 0 22 6@dM=C^<]E9<okk[TUSBQ2
+l30
+L27
+V9A6RZRzjP`Lnz;>flIhOY0
+!s100 <aCjcYMeFeY<?bjHjYQ573
+R6
+32
+R7
+!i10b 1
+R8
+R58
+R59
+!i113 1
+R11
+R12
+Erom
+Z60 w1575005769
+R1
+R2
+R3
+Z61 8C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/rom.vhd
+Z62 FC:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/rom.vhd
+l0
+L7
+VmAmdjmQ9A^YJL1f?LhJC23
+!s100 b;TV27bV[C?_FbmBzGMgG0
+R6
+32
+R7
+!i10b 1
+R8
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/rom.vhd|
+Z64 !s107 C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/rom.vhd|
+!i113 1
+R11
+R12
+Aromhardcodded
+R1
+R2
+DEx4 work 3 rom 0 22 mAmdjmQ9A^YJL1f?LhJC23
+l112
+L20
+VVf3X:2zRbnB4Fm=`ThSU<1
+!s100 F84P6bcHQBB[J=SljE:i?2
+R6
+32
+R7
+!i10b 1
+R8
+R63
+R64
+!i113 1
+R11
+R12
+Eshiftleft2
+R0
+R3
+Z65 8C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/shiftleft2.vhd
+Z66 FC:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/shiftleft2.vhd
+l0
+L8
+V;<GTWYANAk4^_D?iGof0_2
+!s100 VU9>Md@b]no>:A<`]9mTA1
+R6
+32
+R7
+!i10b 1
+R8
+Z67 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/shiftleft2.vhd|
+Z68 !s107 C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/shiftleft2.vhd|
+!i113 1
+R11
+R12
+Astructural
+DEx4 work 10 shiftleft2 0 22 ;<GTWYANAk4^_D?iGof0_2
+l18
+L17
+VgL[26?7daflkRilK:TIRm1
+!s100 2banMc[mRk2ooaKgc8j4e0
+R6
+32
+R7
+!i10b 1
+R8
+R67
+R68
+!i113 1
+R11
+R12
+Esignextend
+R0
+R3
+Z69 8C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/signExtend.vhd
+Z70 FC:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/signExtend.vhd
+l0
+L7
+VfS[b8;<?_LYkJl8X;^0T<2
+!s100 >d?EI?=n3Dho>L@83hU7>2
+R6
+32
+R7
+!i10b 1
+R8
+Z71 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/signExtend.vhd|
+Z72 !s107 C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/signExtend.vhd|
+!i113 1
+R11
+R12
+Acombinational
+DEx4 work 10 signextend 0 22 fS[b8;<?_LYkJl8X;^0T<2
+l19
+L18
+VcDdk77GmNeoPz@cKKkjOi3
+!s100 YA^Tzh:m5WMa2ND;LLUVf2
+R6
+32
+R7
+!i10b 1
+R8
+R71
+R72
+!i113 1
+R11
+R12

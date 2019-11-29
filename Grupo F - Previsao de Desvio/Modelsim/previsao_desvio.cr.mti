@@ -1,0 +1,124 @@
+{C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/signExtend.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/signExtend.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity signExtend
+-- Compiling architecture combinational of signExtend
+
+} {} {}} {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/shiftleft2.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/shiftleft2.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity shiftleft2
+-- Compiling architecture structural of shiftleft2
+
+} {} {}} {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/alucontrol.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/alucontrol.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package NUMERIC_BIT
+-- Compiling entity alu_control
+-- Compiling architecture aluctrl of alu_control
+
+} {} {}} {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/branch_table.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/branch_table.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package NUMERIC_BIT
+-- Compiling entity branch_table
+-- Compiling architecture branch_table of branch_table
+
+} {} {}} {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/fp.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/fp.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package NUMERIC_BIT
+-- Compiling entity fp_unity
+-- Compiling architecture structural of fp_unity
+
+} {} {}} {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/fluxo_de_dados.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/fluxo_de_dados.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package NUMERIC_BIT
+-- Compiling entity data_path
+-- Compiling architecture arch of data_path
+
+} {} {}} {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/mux2to1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/mux2to1.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity mux2to1
+-- Compiling architecture whenelse of mux2to1
+-- Compiling architecture withselect of mux2to1
+-- Loading entity mux2to1
+-- Compiling architecture struct of mux2to1
+-- Loading entity mux2to1
+-- Compiling architecture structvec of mux2to1
+-- Loading entity mux2to1
+-- Compiling architecture structgen of mux2to1
+-- Loading entity mux2to1
+-- Compiling architecture proccase of mux2to1
+-- Loading entity mux2to1
+-- Compiling architecture procif of mux2to1
+-- Loading entity mux2to1
+
+} {} {}} {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/alu.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/alu.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package NUMERIC_BIT
+-- Compiling entity alu
+-- Compiling architecture functional of alu
+** Warning: C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/alu.vhd(31): (vcom-1013) Initial value of "shift_amount_value" depends on value of signal "shift_amount_ex".
+
+} {} {}} {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/dualregfile.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/dualregfile.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package NUMERIC_BIT
+-- Compiling entity dualregfile
+-- Compiling architecture DualRegFile64 of dualregfile
+
+} {} {}} {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/processador.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/processador.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package NUMERIC_BIT
+-- Compiling entity processor
+-- Compiling architecture arch of processor
+
+} {} {}} {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/controComAlu.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/controComAlu.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_BIT
+-- Compiling entity clock_gen
+-- Compiling architecture comportamental of clock_gen
+-- Compiling entity control
+-- Compiling architecture Control of control
+
+} {} {}} {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/reg.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/reg.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg
+-- Compiling architecture flipflop of reg
+
+} {} {}} {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/rom.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/rom.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package NUMERIC_BIT
+-- Compiling entity rom
+-- Compiling architecture romhardcodded of rom
+
+} {} {}} {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/ram.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/ram.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ram
+-- Compiling architecture vendorfree of ram
+
+} {} {}}

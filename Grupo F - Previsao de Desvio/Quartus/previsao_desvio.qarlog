@@ -1,0 +1,28 @@
+Quartus Prime Archive log --	C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/Quartus/previsao_desvio.qarlog
+
+Archive:	C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/Quartus/previsao_desvio.qar
+Date:		Fri Nov 29 13:42:40 2019
+Quartus Prime		18.1.1 Build 646 04/11/2019 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/Quartus/previsao_desvio.qpf
+C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/Quartus/previsao_desvio.qsf
+C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/alu.vhd
+C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/alucontrol.vhd
+C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/branch_table.vhd
+C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/controComAlu.vhd
+C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/dualregfile.vhd
+C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/fluxo_de_dados.vhd
+C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/fp.vhd
+C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/mux2to1.vhd
+C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/processador.vhd
+C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/ram.vhd
+C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/reg.vhd
+C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/rom.vhd
+C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/shiftleft2.vhd
+C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/signExtend.vhd
+c:/intelfpga_lite/18.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 17 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
