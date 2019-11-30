@@ -27,10 +27,10 @@ entity cacheL2Path is
 		delete:         in  bit;
 		hit:            out bit := '0';
 		dirtyBit:       out bit := '0';
-		vbWrite:         out bit := '0';
+		vbWrite:        out bit := '0';
 
 		-- I/O relacionados ao victim buffer
-		vbDataIn:       in word_vector_type(1 downto 0) := (others => word_vector_init);
+		vbDataIn:       in  word_vector_type(1 downto 0) := (others => word_vector_init);
 		vbAddr:         in  bit_vector(9 downto 0);
 		dirtyData:      in  bit;
 
@@ -104,7 +104,7 @@ begin
 	addr <= ciAddr when (addrOptions = "01") else
 		    cdAddr when (addrOptions = "10") else
 			vbAddr when (addrOptions = "11");
-	
+
 
 	-- obtem campos do cache a partir do endere?o de entrada
 	memBlockAddr <= to_integer(unsigned(addr(9 downto 3)));
@@ -120,9 +120,9 @@ begin
 
 	-- dois (2 blocos por conjunto) comparadores em paralelo para definir o hit
 	hitSignal <= '1' when (cache(index).set(0).valid = '1' and cache(index).set(0).tag = tag) or
-						  (cache(index).set(1).valid = '1' and cache(index).set(1).tag = tag) 
+						  (cache(index).set(1).valid = '1' and cache(index).set(1).tag = tag)
 					 else '0';
-	
+
 	--  saidas
 
 	hit <= hitSignal;
