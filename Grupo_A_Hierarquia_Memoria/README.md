@@ -6,7 +6,7 @@ Este projeto ilustra o funcionamento de um sistema de hierarquia de memória mul
 
 - Associatividade 2-way
 
-- Cache multinível (2 níveis)
+- Cache multinível (2 níveis) + memória principal
 
 - Buffer Write-Back
 
@@ -31,6 +31,44 @@ Desta maneira para simular o projeto, é necessário, no contexto do topLevel, s
 Essencialmente o que este módulo faz é promover a entrada de endereços à hierarquia de memória, em diversos moduos possíveis. Além disso, ele é capaz de detectar stalls providos das hierarquias, tal como um pipeline, e interromper e emissão de endereços até a resolução do miss.
 
 Pedimos que o leitor se dirija à seção 4.4 do relatório para detalhes de como utilizar o tester, pois nesta seção do relatório especificamos a interface deste componente e trazemos casos de uso com imagens apropriadas explicitando como configurar o tester da maneira correta. Dada a sua razoável complexidade, concluímos que o relatório em si seria o host mais apropriado para mostrar estas informações.
+
+## Resumo de Participação
+
+Douglas Ramos (Coordenador)
+
+- Condução de reuniões da equipe, planejamento e gerenciamento do projeto utilizando trello.
+- Atuação como facilitador do grupo, resolvendo problemas técnicos de infraestrutura (avtive HDL, git, etc) como também fornecendo auxílio nas implementações e testes de componentes de outros membros, como o cacheL2 e a Memória principal.
+- Implementação dos caches de instrução e de dados de ambas hierarquias.
+- Revisão dos componentes do projeto e descrição dos memoryHierachy, que integram todos os componentes dentro das hierarquias.
+
+Rafael Higa
+
+- Responsável pela extensa pesquisa teórica de todas as técnicas de otimização, sendo assistido pelo Lucas Kogachi nesta tarefa. Responsável ainda por disseminar o conhecimento apreendido para os integrantes da equipe.
+- Implementação de todos os componentes relacionados ao VictimBuffer.
+- Implementação do Tester, que é o componente que simula o pipeline e é a peça fundamental na execução dos testes.
+- Responsável pela execução e análise dos testes junto com Igor Ortega.
+
+Igor Ortega
+
+- Implementação de todos os componentes relacionados à memória principal, em ambas .
+- Implementação de todos os componentes relacionados ao CacheL2.
+- Responsável pela execução e análise dos testes junto com Rafael Higa.
+- Estudo de melhores abordagens para sincronização entre as partes do sistema.
+
+Lucas Kogachi
+
+- Auxílio na pesquisa das técnicas de otmização.
+- Auxílio na implementação dos caches L1.
+- Auxílio nos testes.
+
+HenriqueHattori
+
+- Estudo da arquitetura arm, focado principalmente na estrutura das instruções.
+- Confeção de cenários de testes utilizando um conjunto de instruções propício e significativo.
+- Auxílio na confeção de componentes de integração do sistema.
+- Auxílio nos testes.
+
+Todos integrantes ajudaram na cofeção da apresentação e do relatório.
 
 ## Estrutura do Projeto
 
