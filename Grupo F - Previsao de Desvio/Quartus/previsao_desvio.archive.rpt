@@ -1,0 +1,107 @@
+Archive Project report for previsao_desvio
+Fri Nov 29 13:42:40 2019
+Quartus Prime Version 18.1.1 Build 646 04/11/2019 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2019  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Fri Nov 29 13:42:40 2019 ;
+; Revision Name          ; previsao_desvio                       ;
+; Top-level Entity Name  ; processor                             ;
+; Family                 ; Cyclone IV E                          ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: File Set 'Source control' contains:
+    Info: Project source and settings files
+    Info: Automatically detected source files
+Warning: Hierarchical Platform Designer systems and custom IP components(_hw.tcl and associated files) are not archived by the Quartus Archiver
+Info: Archive will store files relative to the closest common parent directory
+Info (13213): Using common directory C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/Quartus/previsao_desvio.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'previsao_desvio.archive.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/18.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 1 warning
+    Info: Peak virtual memory: 4823 megabytes
+    Info: Processing ended: Fri Nov 29 13:42:40 2019
+    Info: Elapsed time: 00:00:01
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++--------------------------------------------------------------------------------------------+
+; Files Archived                                                                             ;
++--------------------------------------------------------------------------------------------+
+; File Name                                                                                  ;
++--------------------------------------------------------------------------------------------+
+; ../src/alu.vhd                                                                             ;
+; ../src/alucontrol.vhd                                                                      ;
+; ../src/branch_table.vhd                                                                    ;
+; ../src/controComAlu.vhd                                                                    ;
+; ../src/dualregfile.vhd                                                                     ;
+; ../src/fluxo_de_dados.vhd                                                                  ;
+; ../src/fp.vhd                                                                              ;
+; ../src/mux2to1.vhd                                                                         ;
+; ../src/processador.vhd                                                                     ;
+; ../src/ram.vhd                                                                             ;
+; ../src/reg.vhd                                                                             ;
+; ../src/rom.vhd                                                                             ;
+; ../src/shiftleft2.vhd                                                                      ;
+; ../src/signExtend.vhd                                                                      ;
+; c:/intelfpga_lite/18.1/quartus/bin64/assignment_defaults.qdf                               ;
+; C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/alu.vhd            ;
+; C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/alucontrol.vhd     ;
+; C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/branch_table.vhd   ;
+; C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/controComAlu.vhd   ;
+; C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/dualregfile.vhd    ;
+; C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/fluxo_de_dados.vhd ;
+; C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/fp.vhd             ;
+; C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/mux2to1.vhd        ;
+; C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/processador.vhd    ;
+; C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/ram.vhd            ;
+; C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/reg.vhd            ;
+; C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/rom.vhd            ;
+; C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/shiftleft2.vhd     ;
+; C:/Users/bruno/Desktop/PCS32422_2019S2/Grupo F - Previsao de Desvio/src/signExtend.vhd     ;
+; previsao_desvio.qpf                                                                        ;
+; previsao_desvio.qsf                                                                        ;
++--------------------------------------------------------------------------------------------+
+
+

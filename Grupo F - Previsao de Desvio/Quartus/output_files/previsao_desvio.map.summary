@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Nov 29 13:41:56 2019
+Quartus Prime Version : 18.1.1 Build 646 04/11/2019 SJ Lite Edition
+Revision Name : previsao_desvio
+Top-level Entity Name : processor
+Family : Cyclone IV E
+Total logic elements : 7,266
+    Total combinational functions : 4,550
+    Dedicated logic registers : 3,368
+Total registers : 3368
+Total pins : 11
+Total virtual pins : 0
+Total memory bits : 2,048
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

@@ -1,0 +1,49 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "InstructionOut[0]",
+					"strict" : false
+				},
+				{
+					"name" : "InstructionOut[1]",
+					"strict" : false
+				},
+				{
+					"name" : "InstructionOut[2]",
+					"strict" : false
+				},
+				{
+					"name" : "InstructionOut[3]",
+					"strict" : false
+				},
+				{
+					"name" : "InstructionOut[4]",
+					"strict" : false
+				},
+				{
+					"name" : "InstructionOut[5]",
+					"strict" : false
+				},
+				{
+					"name" : "InstructionOut[7]",
+					"strict" : false
+				},
+				{
+					"name" : "InstructionOut[8]",
+					"strict" : false
+				},
+				{
+					"name" : "InstructionOut[9]",
+					"strict" : false
+				},
+				{
+					"name" : "InstructionOut[10]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
